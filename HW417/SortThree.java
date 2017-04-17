@@ -1,7 +1,3 @@
-//A+ Computer Science
-// www.apluscompsci.com
-
-//comparable sort example
 
 import static java.lang.System.*;
 import java.util.Arrays;

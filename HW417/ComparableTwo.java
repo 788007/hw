@@ -1,8 +1,3 @@
-//A+ Computer Science
-// www.apluscompsci.com
-
-//comparable example two
-
 import static java.lang.System.*;
 
 public class ComparableTwo
